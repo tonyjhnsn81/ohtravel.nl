@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ohtravel.nl/sitemap.xml
